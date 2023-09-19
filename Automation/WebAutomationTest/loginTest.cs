@@ -24,5 +24,10 @@ namespace WebAutomationTest
         {
             Assert.Pass();
         }
+          [Test]
+        public void Test4()
+        {
+            Assert.Pass();
+        }
     }
 }
