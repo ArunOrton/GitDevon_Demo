@@ -8,7 +8,6 @@ namespace WebAutomationTest
         [SetUp]
         public void Setup()
         {
-            int year =2023;
         }
 
         [Test]
@@ -16,31 +15,6 @@ namespace WebAutomationTest
         {
             Assert.Pass();
         }
-        [Test]
-        public void Test2()
-        {
-            Assert.Pass();
-        }
-        [Test]
-        public void Test3()
-        {
-            Assert.Pass();
-        }
-          [Test]
-        public void Test4()
-        {
-            Assert.Pass();
-        }
-        [Test]
-        public void Test5()
-        {
-            Assert.Pass();
-        }
-        [Test]
-        public void Test7()
-        {
-            Console.Write("Demo");
-            Assert.Pass();
-        }
+       
     }
 }
