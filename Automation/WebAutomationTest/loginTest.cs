@@ -7,6 +7,7 @@ namespace WebAutomationTest
         [SetUp]
         public void Setup()
         {
+            int year =2023;
         }
 
         [Test]
