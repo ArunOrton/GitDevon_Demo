@@ -1,3 +1,4 @@
+using System;
 using NUnit.Framework;
 
 namespace WebAutomationTest
@@ -38,6 +39,7 @@ namespace WebAutomationTest
         [Test]
         public void Test7()
         {
+            Console.Write("Demo");
             Assert.Pass();
         }
     }
