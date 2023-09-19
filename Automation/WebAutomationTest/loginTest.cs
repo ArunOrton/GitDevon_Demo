@@ -39,6 +39,7 @@ namespace WebAutomationTest
         [Test]
         public void Test7()
         {
+            Assert.Fail();
             Console.Write("Demo");
             Assert.Pass();
         }
